@@ -1,4 +1,4 @@
-测试通过，能接入nacos
+测试通过，能接入nacos,在sentinel-dashboard-nacos模式实现
 
 
 
